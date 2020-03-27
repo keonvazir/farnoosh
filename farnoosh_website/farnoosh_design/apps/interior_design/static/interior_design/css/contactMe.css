@@ -1,0 +1,10 @@
+body {
+    background-image: url(../images/plants.JPG);
+    background-size: 60em 50em;
+    background-repeat: no-repeat;
+    
+}
+.contact {
+    background-color: lightgray;
+    width: 30em;
+}

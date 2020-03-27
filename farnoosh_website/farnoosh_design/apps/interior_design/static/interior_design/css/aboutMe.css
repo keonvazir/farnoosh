@@ -1,0 +1,9 @@
+body {
+    background-image: url(../images/yellow.JPG);
+    background-size: 60em 50em;
+    background-repeat: no-repeat;
+}
+.first {
+    background-color: lightgray;
+   
+}
